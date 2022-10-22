@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
 <html lang="en">
-<link href="static/styles/common.css">
-<link href="static/styles/results.css">
+<link rel="stylesheet" href="{{ url_for('static', filename='styles/common.css') }}">
+<link rel="stylesheet" href="{{ url_for('static', filename='styles/results.css') }}">
 <head>
     <meta charset="UTF-8">
     <title>Education Pathways</title>
@@ -21,9 +21,13 @@
         </p> 
         <p>
         {{ render_field(form.search) }}
-      </p></dl>
-      <p>{{render_field(form.top)}} <button type="button" class="btn btn-primary common-page-submit-btn" type="submit" value="Search">Search</button>
-    </p></form>
+        </p>
+      </dl>
+      <p>
+        {{render_field(form.top)}}
+        <button type="submit" class="btn btn-primary common-page-submit-btn"  value="Search">Search</button>
+      </p>
+    </form>
     
   <h3>Search Results</h3>
   <div id="results-page-table-container">
