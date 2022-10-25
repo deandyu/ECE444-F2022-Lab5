@@ -4,12 +4,12 @@ This repo is a clone of https://github.com/nelaturuk/education_pathways.
 
 We did Activity 1 - 5 individually and then compared our codes. So we are submitting the repository of a single group member.
 
-**Activity 1**
+## Activity 1
 
 ![](images/Activity1.png)
 
 
-**Activity 2-5**
+## Activity 2-5
 
 Home Page
 ![image](https://user-images.githubusercontent.com/57778780/197859705-e3f66ed8-1dd3-4b75-bd7d-7d4503f3ec3a.png)
@@ -20,7 +20,7 @@ Results Page - Form
 Results Page - Results Table
 ![image](https://user-images.githubusercontent.com/57778780/197859739-f29eb24f-eb8f-4a7c-8e4c-783f62966330.png)
 
-**Activity 6**
+## Activity 6
 
 User Story 3.2
 
