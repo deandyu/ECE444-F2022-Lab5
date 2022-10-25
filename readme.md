@@ -38,3 +38,5 @@ User Story 6.2
 
 ![](images/User_Story_6.2.png)
 ![image](https://user-images.githubusercontent.com/57778780/197859651-7f57e983-e9e7-4029-ae40-9e9a8d5f86c1.png)
+
+Platform used for front-end design: https://www.figma.com/file/vKA49feFpbsdrjT4Pt6n39/Frontend-Prototype?node-id=0%3A1
