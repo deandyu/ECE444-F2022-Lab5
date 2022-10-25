@@ -23,17 +23,20 @@ Results Page - Results Table
 **Activity 6**
 
 User Story 3.2
+
 ![](images/User_Story_3.2.png)
 
 ![image](https://user-images.githubusercontent.com/57778780/197859594-693db605-a847-4110-be65-aa7ac98ed016.png)
 
 User Story 4.1
-![](images/User Story 4.1.png)
+
+![](images/User_Story_4.1.png)
 ![image](https://user-images.githubusercontent.com/57778780/197859623-9ce4a2f3-a777-4943-a4b3-81b41ccd773b.png)
 
 
 User Story 6.2
-![](images/User Story 6.2.png)
+
+![](images/User_Story_6.2.png)
 ![image](https://user-images.githubusercontent.com/57778780/197859651-7f57e983-e9e7-4029-ae40-9e9a8d5f86c1.png)
 
 
